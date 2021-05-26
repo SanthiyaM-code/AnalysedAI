@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.analysed">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Analysed">
+        <activity android:name=".myFiles_3"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".profile" />
+        <activity android:name=".jobSuggestion_1" />
+        <activity android:name=".navigation" />
+        <activity android:name=".faq" />
+        <activity android:name=".mySchedule" />
+        <activity android:name=".myfiles" />
+        <activity android:name=".storage" />
+        <activity android:name=".Referal" />
+        <activity android:name=".CreateTicket" />
+        <activity android:name=".mytask" />
+        <activity android:name=".jobSuggestion" />
+        <activity android:name=".signin" />
+        <activity android:name=".dashboard">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
