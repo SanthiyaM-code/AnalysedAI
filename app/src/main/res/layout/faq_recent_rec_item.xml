@@ -25,7 +25,10 @@
             android:elevation="8dp"
             android:padding="10dp"
             android:textAlignment="center"
-            app:cardCornerRadius="10dp">
+            app:cardCornerRadius="10dp"
+            android:layout_marginRight="27dp"
+            android:layout_marginLeft="28dp"
+            android:gravity="center_horizontal">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -45,7 +48,8 @@
                         android:textSize="18dp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="20dp"
-                        android:layout_marginStart="30dp"/>
+                        android:layout_marginStart="30dp"
+                        android:layout_marginLeft="30dp" />
 
                     <TextView
                         android:id="@+id/textView253"
@@ -56,7 +60,8 @@
                         android:layout_marginTop="0dp"
                         android:text="05-05-2021"
                         android:textSize="16dp"
-                        android:fontFamily="@font/nunito"/>
+                        android:fontFamily="@font/nunito"
+                        android:layout_marginLeft="30dp" />
 
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cand_edit_note_card"
@@ -66,7 +71,9 @@
                         android:backgroundTint="@color/white"
 
                         android:layout_marginEnd="16dp"
-                        android:layout_toStartOf="@+id/cand_del_note_card">
+                        android:layout_toStartOf="@+id/cand_del_note_card"
+                        android:layout_marginRight="16dp"
+                        android:layout_toLeftOf="@+id/cand_del_note_card">
 
                         <ImageView
                             android:id="@+id/cand_imageView24"
@@ -83,7 +90,9 @@
                         android:layout_alignParentEnd="true"
                         android:backgroundTint="@color/white"
                         android:layout_marginTop="26dp"
-                        android:layout_marginEnd="20dp">
+                        android:layout_marginEnd="20dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="20dp">
 
                         <ImageView
                             android:id="@+id/cand_imageView25"
@@ -107,7 +116,8 @@
                         android:layout_marginStart="28dp"
                         android:backgroundTint="@color/white"
                         android:layout_marginTop="30dp"
-                        app:cardCornerRadius="250dp">
+                        app:cardCornerRadius="250dp"
+                        android:layout_marginLeft="28dp">
 
                         <ImageView
                             android:id="@+id/cand_imageView23"
@@ -130,7 +140,9 @@
                         android:text="Philip Martin"
                         android:textSize="18dp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/nunito_semibold"/>
+                        android:fontFamily="@font/nunito_semibold"
+                        android:layout_marginLeft="25dp"
+                        android:layout_toRightOf="@+id/cand_notes_dp" />
 
 
                 </RelativeLayout>
@@ -146,7 +158,9 @@
                     android:fontFamily="@font/nunito"
                     android:text="Text"
                     android:textColor="@color/grey"
-                    android:textSize="14dp" />
+                    android:textSize="14dp"
+                    android:layout_marginRight="18dp"
+                    android:layout_marginLeft="30dp" />
 
                 <RelativeLayout
                     android:id="@+id/item_description_layout"
@@ -168,7 +182,9 @@
                         android:layout_marginStart="8dp"
                         android:layout_marginTop="10dp"
                         android:layout_toEndOf="@+id/item_description_title"
-                        android:src="@drawable/expand_more" />
+                        android:src="@drawable/expand_more"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/item_description_title" />
 
                     <TextView
                         android:id="@+id/item_description_title"

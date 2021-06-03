@@ -20,7 +20,7 @@ public class myFiles_3 extends AppCompatActivity  implements AdapterView.OnItemS
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my_files_3);
-        
+
 
         Spinner spinner=findViewById(R.id.documents);
         ArrayAdapter<CharSequence> adapter=ArrayAdapter.createFromResource(this,R.array.files, android.R.layout.simple_spinner_item);
