@@ -72,9 +72,10 @@
                 android:paddingBottom="7dp">
                 <SearchView
                     android:id="@+id/cand_usage_search"
-                    android:layout_width="286dp"
+                    android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:layout_marginLeft="27dp"
+                    android:layout_marginRight="80dp"
                     android:layout_marginTop="5dp"
                     android:background="@drawable/searchviewbg"
                     android:layoutDirection="rtl"
@@ -86,7 +87,8 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:layout_marginLeft="322dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_alignParentRight="true"
                     android:layout_marginTop="5dp"
                     android:src="@drawable/updownarrow" />
 

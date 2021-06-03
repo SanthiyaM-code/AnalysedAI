@@ -73,7 +73,9 @@
                     android:layout_marginTop="32dp"
                     android:layout_toEndOf="@id/card_pro_1"
                     android:foreground="@color/luc_white"
-                    app:cardCornerRadius="250dp"/>
+                    app:cardCornerRadius="250dp"
+                    android:layout_marginLeft="14dp"
+                    android:layout_toRightOf="@id/card_pro_1" />
                 <androidx.cardview.widget.CardView
                     android:layout_width="6dp"
                     android:layout_height="6dp"
@@ -82,7 +84,9 @@
                     android:layout_marginTop="32dp"
                     android:layout_toEndOf="@id/card_dot_4"
                     android:foreground="@color/luc_white"
-                    app:cardCornerRadius="250dp"/>
+                    app:cardCornerRadius="250dp"
+                    android:layout_marginLeft="14dp"
+                    android:layout_toRightOf="@id/card_dot_4" />
                 <androidx.cardview.widget.CardView
                     android:layout_width="6dp"
                     android:layout_height="6dp"
@@ -91,7 +95,9 @@
                     android:layout_marginTop="32dp"
                     android:layout_toEndOf="@id/card_dot_5"
                     android:foreground="@color/luc_white"
-                    app:cardCornerRadius="250dp"/>
+                    app:cardCornerRadius="250dp"
+                    android:layout_marginLeft="14dp"
+                    android:layout_toRightOf="@id/card_dot_5" />
                 <androidx.cardview.widget.CardView
                     android:layout_width="6dp"
                     android:layout_height="6dp"
@@ -100,7 +106,9 @@
                     android:layout_marginTop="32dp"
                     android:layout_toEndOf="@id/card_dot_6"
                     android:foreground="@color/luc_white"
-                    app:cardCornerRadius="250dp"/>
+                    app:cardCornerRadius="250dp"
+                    android:layout_marginLeft="14dp"
+                    android:layout_toRightOf="@id/card_dot_6" />
                 <androidx.cardview.widget.CardView
                     android:layout_width="65dp"
                     android:layout_height="65dp"
@@ -109,7 +117,8 @@
                     app:cardElevation="0dp"
                     app:cardBackgroundColor="@android:color/transparent"
                     app:cardCornerRadius="250dp"
-                    android:layout_marginBottom="34dp">
+                    android:layout_marginBottom="34dp"
+                    android:layout_toRightOf="@id/card_dot_7">
 
                     <ImageView
 
@@ -177,8 +186,9 @@
 
         <EditText
             android:id="@+id/editTextTextPersonName8"
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:layout_marginRight="27dp"
             android:ems="10"
             android:inputType="textPersonName"
             android:layout_marginTop="10dp"
@@ -199,8 +209,9 @@
 
 
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:layout_marginRight="27dp"
             android:ems="10"
             android:inputType="textPersonName"
             android:layout_marginTop="10dp"
@@ -220,7 +231,8 @@
             android:textSize="14dp"/>
         <Spinner
             android:id="@+id/spinner3"
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
 
             android:layout_marginTop="10dp"
@@ -236,7 +248,8 @@
             android:fontFamily="@font/nunito_semibold"
             android:textSize="14dp"/>
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
@@ -257,7 +270,8 @@
             android:textSize="14dp"/>
 
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
@@ -268,7 +282,8 @@
             android:paddingLeft="29dp"
             android:textSize="17dp"/>
         <TextView
-            android:layout_width="137dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="18dp"
             android:text="Add Contact Number +"
             android:textSize="13dp"
@@ -286,7 +301,8 @@
             android:fontFamily="@font/nunito_semibold"
             android:textSize="14dp"/>
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
@@ -306,7 +322,8 @@
             android:fontFamily="@font/nunito_semibold"
             android:textSize="14dp"/>
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
@@ -327,7 +344,8 @@
             android:fontFamily="@font/nunito_semibold"
             android:textSize="14dp"/>
         <EditText
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:ems="10"
             android:inputType="textPersonName"
@@ -349,7 +367,8 @@
             android:textSize="14dp"/>
         <Spinner
 
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
 
             android:layout_marginTop="10dp"
@@ -367,7 +386,8 @@
             android:textSize="14dp"/>
         <Spinner
 
-            android:layout_width="364dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="26dp"

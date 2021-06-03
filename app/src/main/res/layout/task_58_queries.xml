@@ -60,7 +60,8 @@
         android:layout_marginLeft="283dp"
         android:src="@drawable/reply_black_24dp"/>
     <View
-        android:layout_width="361dp"
+        android:layout_width="match_parent"
+        android:layout_marginRight="27dp"
         android:layout_height="2dp"
         android:background="#F2F2F2"
         android:layout_marginTop="225dp"

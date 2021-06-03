@@ -5,9 +5,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white">
     <androidx.cardview.widget.CardView
-        android:layout_width="362dp"
+        android:layout_width="match_parent"
         android:layout_height="376dp"
         android:layout_marginLeft="26dp"
+        android:layout_marginRight="27dp"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         app:cardCornerRadius="12dp"
@@ -69,12 +70,13 @@
 
             <SeekBar
 
-                android:layout_width="300dp"
+                android:layout_width="match_parent"
+                android:layout_marginRight="27dp"
                 android:layout_height="10dp"
                 android:max="100"
                 android:min="0"
                 android:progress="60"
-                android:layout_marginLeft="31dp"
+                android:layout_marginLeft="27dp"
                 android:layout_marginTop="208dp"
                 android:progressDrawable="@drawable/seek_bar"
                 android:progressTint="#19D21F"

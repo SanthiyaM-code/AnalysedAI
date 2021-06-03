@@ -38,7 +38,8 @@
 
         <SearchView
             android:id="@+id/cand_usage_search"
-            android:layout_width="354dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="27dp"
             android:layout_height="50dp"
             android:layout_marginLeft="30dp"
             android:layout_marginTop="27dp"

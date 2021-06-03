@@ -5,8 +5,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@color/white">
     <androidx.cardview.widget.CardView
-        android:layout_width="354dp"
+        android:layout_width="match_parent"
         android:layout_height="122dp"
+        android:layout_marginRight="27dp"
         android:backgroundTint="@color/white"
         app:cardCornerRadius="12dp"
         android:outlineAmbientShadowColor="#00000029"
@@ -50,8 +51,9 @@
                 android:textColor="#FF9D18"
                 android:textSize="13dp" />
             <View
-                android:layout_width="329dp"
+                android:layout_width="match_parent"
                 android:layout_height="3dp"
+                android:layout_marginRight="12dp"
                 android:background="#F2F2F2"
                 android:layout_marginTop="89dp"
                 android:layout_marginLeft="12dp" />
