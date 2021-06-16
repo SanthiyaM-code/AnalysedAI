@@ -101,9 +101,9 @@
                                 android:id="@+id/spinner55"
                                 android:layout_width="140dp"
                                 android:layout_height="48dp"
-                                android:layout_marginTop="10dp"
+                                android:layout_marginTop="15dp"
                                 android:layout_below="@+id/textView250"
-                                android:textSize="18dp"
+                                android:textSize="14dp"
                                 android:textColor="@color/black"
                                 android:fontFamily="@font/nunito"
                                 android:foreground="@drawable/background_black"
@@ -114,7 +114,8 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_margin="7dp"
+                            android:layout_marginLeft="17dp"
+
                             android:layout_gravity="center"
                             android:orientation="vertical">
                             <TextView
@@ -132,7 +133,7 @@
                                 android:layout_width="140dp"
                                 android:layout_height="48dp"
                                 android:layout_below="@+id/textView251"
-                                android:layout_marginTop="10dp"
+                                android:layout_marginTop="15dp"
                                 android:layout_toRightOf="@+id/spinner55"
                                 android:textSize="18dp"
                                 android:textColor="@color/black"

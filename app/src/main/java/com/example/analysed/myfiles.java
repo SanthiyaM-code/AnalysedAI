@@ -30,6 +30,7 @@ public class myfiles extends AppCompatActivity implements AdapterView.OnItemSele
         Rec =findViewById(R.id.my_file_list);
         Rec.setLayoutManager(new LinearLayoutManager(this));
         Rec.setAdapter(new MyFilesRecAdapter());
+        ImageView navbuttonfaq= (ImageView)findViewById(R.id.navfaq);
 
         Spinner spinner=findViewById(R.id.Allfiles);
         ArrayAdapter<CharSequence> adapter=ArrayAdapter.createFromResource(this,R.array.files, android.R.layout.simple_spinner_item);
@@ -52,6 +53,15 @@ public class myfiles extends AppCompatActivity implements AdapterView.OnItemSele
             public void onClick(View view) {
                 Intent intent = new Intent(myfiles.this,storage.class);
                 startActivity(intent);
+
+            }
+        });
+        navbuttonfaq.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intssss = new Intent(myfiles.this,navigation.class);
+                startActivity(intssss);
+                finish();
 
             }
         });

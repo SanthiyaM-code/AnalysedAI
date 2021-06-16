@@ -8,6 +8,11 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.text.Html;
+import android.text.Spannable;
+import android.text.SpannableString;
+import android.text.Spanned;
+import android.text.style.ForegroundColorSpan;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -18,11 +23,14 @@ import android.widget.TextView;
 public class faq extends AppCompatActivity  implements AdapterView.OnItemSelectedListener{
     RecyclerView rec;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_faq);
         ImageView navbuttonfaq= (ImageView)findViewById(R.id.navfaq);
+
 
         Spinner spinner=findViewById(R.id.spinner55);
         ArrayAdapter<CharSequence> adapter=ArrayAdapter.createFromResource(this,R.array.tickettype, android.R.layout.simple_spinner_item);
@@ -60,6 +68,12 @@ public class faq extends AppCompatActivity  implements AdapterView.OnItemSelecte
 
             }
         });
+    }
+
+    private String getColoredSpanned(String name, String color) {
+        String input="<font color=" + color+">"+name+"</font>";
+        return input;
+
     }
 
     @Override

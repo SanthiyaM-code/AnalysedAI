@@ -13,7 +13,10 @@ import java.util.List;
 
 public class SpecificJobAdoptor extends RecyclerView.Adapter<SpecificJobAdoptor.ViewHolder> {
     private List<SpecificJob> jobList;
-    public SpecificJobAdoptor(List<SpecificJob>jobList){this.jobList=jobList;}
+    public SpecificJobAdoptor(List<SpecificJob>jobList)
+    {
+        this.jobList=jobList;
+    }
     @NonNull
     @Override
     public SpecificJobAdoptor.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {

@@ -22,6 +22,7 @@ public class dashboard extends AppCompatActivity {
     List<SpecificJob>jobList;
     SpecificJobAdoptor adaptor;
     private RecyclerView suggestRecyclerViews;
+    private RecyclerView specific_recycle;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +35,16 @@ public class dashboard extends AppCompatActivity {
         suggestRecyclerViews.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, true));
         String [] name={"AirBnB","Netflix Inc","AirBnB"};
         suggestRecyclerViews.setAdapter(new JobsuggestRecycleAdoptar(name));
+
+        specific_recycle=findViewById(R.id.recyclejob);
+        specific_recycle.setLayoutManager(new LinearLayoutManager(this));
+        specific_recycle.setLayoutManager(new LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL,true));
+        List<SpecificJob> job_name= new ArrayList<SpecificJob>();
+        job_name.add(new SpecificJob(R.drawable.data_management,"48 Active Recruiters","Data Analyst","Hydrabad"));
+        job_name.add(new SpecificJob((R.drawable.data_management),"52 Active Recruiters","Python Developer","Mumbai"));
+        specific_recycle.setAdapter(new SpecificJobAdoptor(job_name));
+
+
         AppCompatButton buttonschedule=(AppCompatButton)findViewById(R.id.buttonschedule);
         navbutton.setOnClickListener(new View.OnClickListener() {
             @Override

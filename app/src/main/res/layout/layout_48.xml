@@ -370,7 +370,6 @@
             android:layout_width="match_parent"
             android:layout_marginRight="27dp"
             android:layout_height="50dp"
-
             android:layout_marginTop="10dp"
             android:layout_marginLeft="26dp"
             android:foreground="@drawable/background" />
@@ -380,7 +379,6 @@
             android:layout_marginTop="21dp"
             android:layout_marginLeft="26dp"
             android:text="Country"
-
             android:textColor="@color/black"
             android:fontFamily="@font/nunito_semibold"
             android:textSize="14dp"/>
