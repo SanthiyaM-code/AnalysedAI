@@ -15,7 +15,7 @@
                 android:layout_height="wrap_content"
                 android:text="#JB13069"
                 android:textColor="@color/black"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="23dp"
                 android:layout_marginTop="22dp"/>
@@ -24,7 +24,7 @@
                 android:layout_height="wrap_content"
                 android:text="05-05-2021"
                 android:textColor="#7D7D7D"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="245dp"
                 android:layout_marginTop="22dp"/>
@@ -33,7 +33,7 @@
                 android:layout_height="wrap_content"
                 android:text="Acturial Scientist"
                 android:textColor="@color/black"
-                android:textSize="20dp"
+                android:textSize="20sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="100dp"
                 android:layout_marginTop="63dp"/>
@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"
                 android:text="XYZ Pharmacueticals"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="102dp"
                 android:layout_marginTop="96dp"/>
@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:text="Full Time"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="199dp"
                 android:layout_marginTop="120dp"/>
@@ -100,7 +100,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="10"
-                    android:textSize="14dp"
+                    android:textSize="14sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:layout_marginTop="31dp"
@@ -115,7 +115,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="6"
-                    android:textSize="14dp"
+                    android:textSize="14sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:layout_marginTop="31dp"
@@ -129,7 +129,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="1/4"
-                    android:textSize="14dp"
+                    android:textSize="14sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:layout_marginTop="31dp"
@@ -141,7 +141,7 @@
                 android:layout_height="wrap_content"
                 android:text="Status"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="44dp"
                 android:layout_marginTop="245dp"/>
@@ -150,7 +150,7 @@
                 android:layout_height="wrap_content"
                 android:text="Active"
                 android:textColor="#51C46D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="44dp"
                 android:layout_marginTop="278dp"/>
@@ -159,7 +159,7 @@
                 android:layout_height="wrap_content"
                 android:text="Industry"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="44dp"
                 android:layout_marginTop="325dp"/>
@@ -177,7 +177,7 @@
                 android:layout_height="wrap_content"
                 android:text="Last contact"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="202dp"
                 android:layout_marginTop="245dp"/>
@@ -186,7 +186,7 @@
                 android:layout_height="wrap_content"
                 android:text="20-05-2021"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="202dp"
                 android:layout_marginTop="278dp"/>
@@ -195,7 +195,7 @@
                 android:layout_height="wrap_content"
                 android:text="Qualification req"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="169dp"
                 android:layout_marginTop="325dp"/>
@@ -213,7 +213,7 @@
                 android:layout_height="wrap_content"
                 android:text="Created by"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="396dp"/>
@@ -222,7 +222,7 @@
                 android:layout_height="wrap_content"
                 android:text="Curtis Kelley"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="420dp"/>
@@ -231,7 +231,7 @@
                 android:layout_height="wrap_content"
                 android:text="philipmartin@gmail.com"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="443dp"/>
@@ -240,7 +240,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91 9090687890"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="466dp"/>
@@ -249,7 +249,7 @@
                 android:layout_height="wrap_content"
                 android:text="Active Contact"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="513dp"/>
@@ -258,7 +258,7 @@
                 android:layout_height="wrap_content"
                 android:text="Curtis Kelley"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="537dp"/>
@@ -267,7 +267,7 @@
                 android:layout_height="wrap_content"
                 android:text="philipmartin@gmail.com"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="560dp"/>
@@ -276,7 +276,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91 9090687890"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="583dp"/>
@@ -285,7 +285,7 @@
                 android:layout_height="wrap_content"
                 android:text="Assigned to"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="632dp"/>
@@ -294,7 +294,7 @@
                 android:layout_height="wrap_content"
                 android:text="Curtis Kelley"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="656dp"/>
@@ -303,7 +303,7 @@
                 android:layout_height="wrap_content"
                 android:text="philipmartin@gmail.com"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="677dp"/>
@@ -312,7 +312,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91 9090687890"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="700dp"/>
@@ -321,7 +321,7 @@
                 android:layout_height="wrap_content"
                 android:text="Contact info"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="747dp"/>
@@ -330,7 +330,7 @@
                 android:layout_height="wrap_content"
                 android:text="email@gmail.com"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="771dp"/>
@@ -339,7 +339,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91 9090687890"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="794dp"/>
@@ -348,7 +348,7 @@
                 android:layout_height="wrap_content"
                 android:text="+91 9090687890"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="39dp"
                 android:layout_marginTop="817dp"/>
@@ -357,7 +357,7 @@
                 android:layout_height="wrap_content"
                 android:text="Address"
                 android:textColor="#7D7D7D"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="221dp"
                 android:layout_marginTop="747dp"/>
@@ -366,7 +366,7 @@
                 android:layout_height="wrap_content"
                 android:text="Address line 1,"
                 android:textColor="@color/text_blue"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="221dp"
                 android:layout_marginTop="771dp"/>
@@ -375,7 +375,7 @@
                 android:layout_height="wrap_content"
                 android:text="City - 530961,"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="221dp"
                 android:layout_marginTop="794dp"/>
@@ -384,7 +384,7 @@
                 android:layout_height="wrap_content"
                 android:text="State, Country"
                 android:textColor="@color/black"
-                android:textSize="14dp"
+                android:textSize="14sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="221dp"
                 android:layout_marginTop="817dp"/>

@@ -77,7 +77,7 @@
                         android:fontFamily="@font/nunito_semibold"
                         android:text="5kb"
                         android:textColor="@color/text_blue"
-                        android:textSize="20dp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/TypeSize"
@@ -87,7 +87,7 @@
                         android:fontFamily="@font/nunito_semibold"
                         android:text="367KB"
                         android:textColor="#7D7D7D"
-                        android:textSize="18dp" />
+                        android:textSize="18sp" />
                 </LinearLayout>
 
                 <TextView
@@ -99,7 +99,7 @@
                     android:fontFamily="@font/nunito_semibold"
                     android:text="13"
                     android:textColor="#676767"
-                    android:textSize="28dp"
+                    android:textSize="28sp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />

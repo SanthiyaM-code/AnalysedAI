@@ -73,7 +73,6 @@ public class faq extends AppCompatActivity  implements AdapterView.OnItemSelecte
     private String getColoredSpanned(String name, String color) {
         String input="<font color=" + color+">"+name+"</font>";
         return input;
-
     }
 
     @Override

@@ -48,7 +48,7 @@
                 android:fontFamily="@font/nunito_semibold"
                 android:text="Name"
                 android:textColor="@color/black"
-                android:textSize="27dp" />
+                android:textSize="27sp" />
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -61,7 +61,7 @@
                     android:text="Web Developer"
                     android:textColor="@color/text_blue"
                     android:fontFamily="@font/nunito_semibold"
-                    android:textSize="16dp"
+                    android:textSize="16sp"
                     android:layout_marginLeft="90dp"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -69,7 +69,7 @@
                     android:text="Bangalore"
                     android:fontFamily="@font/nunito_semibold"
                     android:textColor="#7D7D7D"
-                    android:textSize="16dp"
+                    android:textSize="16sp"
                     android:layout_marginLeft="47dp"/>
 
 
@@ -112,7 +112,7 @@
                             android:text="email address"
                             android:textAllCaps="false"
                             android:textColor="#676767"
-                            android:textSize="16dp" />
+                            android:textSize="16sp" />
 
 
                     </LinearLayout>
@@ -138,7 +138,7 @@
                             android:text="+91 8982665932"
                             android:textAllCaps="false"
                             android:textColor="#676767"
-                            android:textSize="16dp" />
+                            android:textSize="16sp" />
 
                     </LinearLayout>
 
@@ -150,7 +150,7 @@
                         android:fontFamily="@font/nunito_semibold"
                         android:text="Skills"
                         android:textColor="#676767"
-                        android:textSize="17dp" />
+                        android:textSize="17sp" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -201,13 +201,13 @@
                         android:fontFamily="@font/nunito"
                         android:text="Profile"
                         android:textColor="@color/black"
-                        android:textSize="27dp" />
+                        android:textSize="27sp" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:text="Edit"
                         android:textColor="@color/text_blue"
-                        android:textSize="16dp"
+                        android:textSize="16sp"
                         android:layout_marginTop="5dp"
                         android:layout_marginLeft="251dp"
                         android:fontFamily="@font/nunito"/>

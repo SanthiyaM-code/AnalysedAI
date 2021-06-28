@@ -40,7 +40,7 @@
                 android:fontFamily="@font/nunito"
                 android:text="Task Name | MCQ"
                 android:textColor="@color/black"
-                android:textSize="22dp" />
+                android:textSize="22sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -57,7 +57,7 @@
                 android:layout_marginTop="13dp"
                 android:fontFamily="@font/nunito_semibold"                android:text="Instructions"
                 android:textColor="#3CA6DA"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -66,14 +66,14 @@
                 android:fontFamily="@font/nunito_semibold"
                 android:text="Added by XYZ"
                 android:textColor="#7D7D7D"
-                android:textSize="12dp" />
+                android:textSize="12sp" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
                 android:textColor="#7D7D7D"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:lineSpacingExtra="6dp"
                 android:layout_marginLeft="28dp"
                 android:layout_marginRight="28dp"
@@ -99,7 +99,7 @@
                         android:fontFamily="@font/nunito_semibold"
                         android:text="Expected Output"
                         android:textColor="#3CA6DA"
-                        android:textSize="20dp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -109,13 +109,13 @@
                         android:fontFamily="@font/nunito"
                         android:text="Example Input"
                         android:textColor="#575757"
-                        android:textSize="18dp" />
+                        android:textSize="18sp" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Lorem ipsum dolor sit amet, consecte,Lorem ipsum dolor sit amet, consecte"
                         android:textColor="#7D7D7D"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:fontFamily="@font/nunito"
                         android:layout_marginLeft="25dp"
                         android:layout_marginRight="25dp"
@@ -128,13 +128,13 @@
                         android:fontFamily="@font/nunito"
                         android:text="Example Output"
                         android:textColor="#575757"
-                        android:textSize="18dp" />
+                        android:textSize="18sp" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Lorem ipsum dolor sit amet, consecte,Lorem ipsum dolor sit amet, consecte"
                         android:textColor="#7D7D7D"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:fontFamily="@font/nunito"
                         android:layout_marginLeft="25dp"
                         android:layout_marginRight="25dp"
@@ -150,7 +150,7 @@
                 android:fontFamily="@font/nunito_semibold"
                 android:text="Constraints"
                 android:textColor="#3CA6DA"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="112dp"
@@ -165,7 +165,7 @@
                     android:layout_width="60dp"
                     android:layout_height="wrap_content"
                     android:text="Screen monitoring"
-                    android:textSize="12dp"
+                    android:textSize="12sp"
                     android:textColor="#7D7D7D"
                     android:fontFamily="@font/nunito"
                     android:layout_below="@+id/screenmonit"
@@ -182,7 +182,7 @@
                     android:layout_width="60dp"
                     android:layout_height="wrap_content"
                     android:text="Candidate monitoring"
-                    android:textSize="12dp"
+                    android:textSize="12sp"
                     android:textColor="#7D7D7D"
                     android:fontFamily="@font/nunito"
 
@@ -200,7 +200,7 @@
                     android:layout_width="60dp"
                     android:layout_height="wrap_content"
                     android:text="Face unlock"
-                    android:textSize="12dp"
+                    android:textSize="12sp"
                     android:textColor="#7D7D7D"
                     android:fontFamily="@font/nunito"
 
@@ -218,7 +218,7 @@
                     android:layout_width="60dp"
                     android:layout_height="wrap_content"
                     android:text="Face unlock"
-                    android:textSize="12dp"
+                    android:textSize="12sp"
                     android:textColor="#7D7D7D"
                     android:fontFamily="@font/nunito"
                     android:layout_below="@+id/tablock"
@@ -254,12 +254,12 @@
                         android:textColor="@color/text_blue"
                         android:layout_marginLeft="28dp"
                         android:layout_marginTop="27dp"
-                        android:textSize="20dp" />
+                        android:textSize="20sp" />
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="72 : 35 : 04"
-                        android:textSize="41dp"
+                        android:textSize="41sp"
                         android:textColor="@color/black"
                         android:fontFamily="@font/nunito"
                         android:layout_marginLeft="74dp"
@@ -269,7 +269,7 @@
                         android:layout_height="wrap_content"
                         android:text="Hrs"
                         android:textColor="#7D7D7D"
-                        android:textSize="13dp"
+                        android:textSize="13sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="127dp"
                         android:layout_marginLeft="89dp"/>
@@ -278,7 +278,7 @@
                         android:layout_height="wrap_content"
                         android:text="Min"
                         android:textColor="#7D7D7D"
-                        android:textSize="13dp"
+                        android:textSize="13sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="127dp"
                         android:layout_marginLeft="168dp"/>
@@ -287,7 +287,7 @@
                         android:layout_height="wrap_content"
                         android:text="Sec"
                         android:textColor="#7D7D7D"
-                        android:textSize="13dp"
+                        android:textSize="13sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="127dp"
                         android:layout_marginLeft="247dp"/>
@@ -315,7 +315,7 @@
                         android:layout_height="wrap_content"
                         android:text="Assigned to"
                         android:textColor="@color/black"
-                        android:textSize="23dp"
+                        android:textSize="23sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="32dp"
                         android:layout_marginLeft="28dp"/>
@@ -336,7 +336,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Show more"
-                        android:textSize="15dp"
+                        android:textSize="15sp"
                         android:textColor="#7D7D7D"
                         android:fontFamily="@font/nunito"
                         android:layout_marginTop="430dp"
@@ -362,7 +362,7 @@
                         android:layout_height="wrap_content"
                         android:text="Queries"
                         android:textColor="@color/black"
-                        android:textSize="23dp"
+                        android:textSize="23sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="32dp"
                         android:layout_marginLeft="28dp"/>
@@ -382,7 +382,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Show more"
-                        android:textSize="15dp"
+                        android:textSize="15sp"
                         android:textColor="#7D7D7D"
                         android:fontFamily="@font/nunito"
                         android:layout_marginTop="1064dp"

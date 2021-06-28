@@ -45,7 +45,7 @@
                         android:layout_height="wrap_content"
                         android:text="Complaint"
                         android:textColor="@color/red"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginTop="20dp"
                         android:layout_marginStart="30dp"
@@ -60,7 +60,7 @@
                         android:layout_marginStart="30dp"
                         android:layout_marginTop="0dp"
                         android:text="05-05-2021"
-                        android:textSize="16dp"
+                        android:textSize="16sp"
                         android:fontFamily="@font/nunito"
                         android:layout_marginLeft="30dp" />
 
@@ -139,7 +139,7 @@
                         android:layout_marginBottom="11dp"
                         android:layout_toEndOf="@+id/cand_notes_dp"
                         android:text="Philip Martin"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:textColor="@color/black"
                         android:fontFamily="@font/nunito_semibold"
                         android:layout_marginLeft="25dp"
@@ -159,7 +159,7 @@
                     android:fontFamily="@font/nunito"
                     android:text="Text"
                     android:textColor="@color/grey"
-                    android:textSize="14dp"
+                    android:textSize="14sp"
                     android:layout_marginRight="18dp"
                     android:layout_marginLeft="30dp" />
 
@@ -201,7 +201,7 @@
                         android:gravity="center"
                         android:textColor="@color/grey"
                         android:text="Read more"
-                        android:textSize="15dp"
+                        android:textSize="15sp"
                         android:fontFamily="@font/nunito"/>
 
 

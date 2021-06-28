@@ -36,7 +36,7 @@
             android:fontFamily="@font/nunito"
             android:text="Resume Sorting"
             android:textColor="@color/black"
-            android:textSize="26dp" />
+            android:textSize="26sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -45,7 +45,7 @@
             android:fontFamily="@font/nunito"
             android:text="Lorem Ipsum lorem lorem ipsum"
             android:textColor="#7D7D7D"
-            android:textSize="13dp" />
+            android:textSize="13sp" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -85,7 +85,7 @@
                     android:fontFamily="@font/nunito_semibold"
                     android:text="Usage"
                     android:textColor="@color/black"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
             </androidx.cardview.widget.CardView>
             <androidx.cardview.widget.CardView
@@ -102,7 +102,7 @@
                     android:fontFamily="@font/nunito_semibold"
                     android:text="Settings"
                     android:textColor="@color/white"
-                    android:textSize="12dp" />
+                    android:textSize="12sp" />
 
             </androidx.cardview.widget.CardView>
 
@@ -115,7 +115,7 @@
             android:fontFamily="@font/nunito"
             android:text="Preferences"
             android:textColor="@color/black"
-            android:textSize="24dp"
+            android:textSize="24sp"
             android:layout_marginLeft="28dp"
             android:layout_marginTop="32dp"/>
 

@@ -37,7 +37,7 @@
                 android:layout_height="wrap_content"
                 android:text="Name"
                 android:textColor="@color/black"
-                android:textSize="19dp"
+                android:textSize="19sp"
                 android:fontFamily="@font/nunito_semibold"
 
                 android:layout_marginLeft="87dp"/>
@@ -53,7 +53,7 @@
             android:layout_height="wrap_content"
             android:text="App store screenshot design"
             android:textColor="@color/black"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:fontFamily="@font/nunito_semibold"
             android:layout_marginTop="120dp"
             android:layout_marginLeft="26dp"/>
@@ -78,7 +78,7 @@
             android:layout_height="wrap_content"
             android:text="18%"
             android:textColor="#7D7D7D"
-            android:textSize="13dp"
+            android:textSize="13sp"
             android:layout_marginTop="171dp"
             android:layout_marginRight="15dp"
             android:layout_gravity="right"/>
@@ -101,7 +101,7 @@
                 android:fontFamily="@font/nunito_semibold"
                 android:gravity="center"
                 android:text="Open"
-                android:textSize="19dp"
+                android:textSize="19sp"
 
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>

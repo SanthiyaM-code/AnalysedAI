@@ -26,7 +26,7 @@
             android:fontFamily="@font/nunito"
             android:text="48 Active Recruiters"
             android:textColor="#7D7D7D"
-            android:textSize="14dp" />
+            android:textSize="14sp" />
         <ImageView
             android:id="@+id/iamgeviewjobs"
             android:layout_width="117dp"
@@ -42,7 +42,7 @@
             android:fontFamily="@font/nunito_semibold"
             android:text="Data Analysis"
             android:textColor="@color/black"
-            android:textSize="18dp"
+            android:textSize="18sp"
             android:layout_marginTop="177dp"
             android:layout_marginLeft="37dp"/>
         <TextView
@@ -52,7 +52,7 @@
             android:fontFamily="@font/nunito_semibold"
             android:text="Hyderabad"
             android:textColor="#7D7D7D"
-            android:textSize="14dp"
+            android:textSize="14sp"
             android:layout_marginTop="210dp"
             android:layout_marginLeft="58dp"/>
 

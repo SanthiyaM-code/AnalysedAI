@@ -42,7 +42,7 @@
                     android:text="Complaint Tickets"
                     android:layout_marginTop="10dp"
                     android:layout_marginLeft="27dp"
-                    android:textSize="35dp"
+                    android:textSize="35sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito"/>
                 <TextView
@@ -51,7 +51,7 @@
                     android:layout_height="wrap_content"
                     android:text="Raise an issue or check for updates on previous issues"
                     android:layout_marginLeft="27dp"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:textColor="@color/grey"
                     android:fontFamily="@font/nunito_semibold"/>
                 <androidx.appcompat.widget.AppCompatButton
@@ -63,7 +63,7 @@
                     android:layout_marginLeft="27dp"
                     android:background="@drawable/background_solid"
                     android:textColor="@color/white"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:fontFamily="@font/nunito_semibold"
                     android:textAllCaps="false"
                     android:drawableRight="@drawable/add"
@@ -93,7 +93,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Ticket type"
-                                android:textSize="18dp"
+                                android:textSize="18sp"
                                 android:textColor="@color/black"
                                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -103,7 +103,7 @@
                                 android:layout_height="48dp"
                                 android:layout_marginTop="15dp"
                                 android:layout_below="@+id/textView250"
-                                android:textSize="14dp"
+                                android:textSize="14sp"
                                 android:textColor="@color/black"
                                 android:fontFamily="@font/nunito"
                                 android:foreground="@drawable/background_black"
@@ -123,7 +123,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="Priority"
-                                android:textSize="18dp"
+                                android:textSize="18sp"
                                 android:textColor="@color/black"
                                 android:fontFamily="@font/nunito_semibold"
                                 android:layout_toRightOf="@+id/spinner55" />
@@ -135,7 +135,7 @@
                                 android:layout_below="@+id/textView251"
                                 android:layout_marginTop="15dp"
                                 android:layout_toRightOf="@+id/spinner55"
-                                android:textSize="18dp"
+                                android:textSize="18sp"
                                 android:textColor="@color/black"
                                 android:fontFamily="@font/nunito"
                                 android:foreground="@drawable/background_black"

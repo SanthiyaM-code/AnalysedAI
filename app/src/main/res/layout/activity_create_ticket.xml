@@ -39,7 +39,7 @@
                 android:text="Create Ticket"
 
                 android:layout_marginTop="15dp"
-                android:textSize="27dp"
+                android:textSize="27sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito"
                 android:layout_marginLeft="28dp" />
@@ -51,7 +51,7 @@
                 android:text="Name*"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -60,7 +60,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="62dp"
                 android:textColor="@color/grey"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:ems="10"
                 android:inputType="textPersonName"
@@ -78,7 +78,7 @@
                 android:text="Email*"
                 android:layout_marginTop="34dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -88,7 +88,7 @@
                 android:layout_height="62dp"
                 android:ems="10"
                 android:textColor="@color/grey"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:inputType="textPersonName"
                 android:layout_marginTop="14dp"
@@ -105,7 +105,7 @@
                 android:text="Subject*"
                 android:layout_marginTop="34dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -114,7 +114,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="62dp"
                 android:textColor="@color/grey"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:ems="10"
                 android:inputType="textPersonName"
@@ -132,7 +132,7 @@
                 android:text="Message*"
                 android:layout_marginTop="34dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -143,7 +143,7 @@
                 android:ems="10"
                 android:maxLines="20"
                 android:textColor="@color/grey"
-                android:textSize="22dp"
+                android:textSize="22sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:inputType="textMultiLine"
                 android:layout_marginTop="14dp"
@@ -162,7 +162,7 @@
                 android:text="Priority"
                 android:layout_marginTop="34dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold" />
 
@@ -181,7 +181,7 @@
                     android:layout_height="wrap_content"
                     android:text="High"
                     android:paddingRight="13dp"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:buttonTint="#3CA6DA"/>
@@ -192,7 +192,7 @@
                     android:layout_height="wrap_content"
                     android:text="Medium"
                     android:paddingRight="13dp"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:buttonTint="#3CA6DA"/>
@@ -204,7 +204,7 @@
                     android:text="Low"
 
                     android:paddingRight="5dp"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:buttonTint="#3CA6DA"/>
@@ -217,7 +217,7 @@
                 android:text="Ticket type"
                 android:layout_marginTop="34dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -250,7 +250,7 @@
                 android:layout_marginEnd="24dp"
                 android:layout_marginBottom="123dp"
                 android:text="Submit"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:textColor="@color/white"
                 android:background="@drawable/background_solid"

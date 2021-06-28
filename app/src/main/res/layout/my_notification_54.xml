@@ -32,7 +32,7 @@
             android:fontFamily="@font/nunito"
             android:text="My Notifications"
             android:textColor="@color/black"
-            android:textSize="27dp"
+            android:textSize="27sp"
             android:layout_marginTop="8dp"
             android:layout_marginLeft="28dp"/>
 

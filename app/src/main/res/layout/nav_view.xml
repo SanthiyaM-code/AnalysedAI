@@ -32,5 +32,5 @@
         android:layout_marginBottom="30dp"
         android:padding="8dp"
         android:textColor="@color/navText"
-        android:textSize="20dp" />
+        android:textSize="20sp" />
     </RelativeLayout>

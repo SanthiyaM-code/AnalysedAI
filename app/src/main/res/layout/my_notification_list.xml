@@ -27,7 +27,7 @@
                 android:layout_height="wrap_content"
                 android:text="FaceBook"
                 android:textColor="@color/black"
-                android:textSize="16dp"
+                android:textSize="16sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="77dp"
                 android:layout_marginTop="19dp"/>
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:text="for Web Developer"
                 android:textColor="#ADADAD"
-                android:textSize="11dp"
+                android:textSize="11sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginLeft="77dp"
                 android:layout_marginTop="40dp"/>
@@ -49,12 +49,12 @@
                 android:fontFamily="@font/nunito_semibold"
                 android:text="Task assigned"
                 android:textColor="#FF9D18"
-                android:textSize="13dp" />
+                android:textSize="13sp" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="2:38 pm"
-                android:textSize="10dp"
+                android:textSize="10sp"
                 android:textColor="#C5C5C5"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginTop="44dp"
@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:text="Deadline : 26th May 2021"
                 android:textColor="#707070"
-                android:textSize="11dp"
+                android:textSize="11sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:layout_marginTop="78dp"
                 android:layout_marginLeft="77dp"/>

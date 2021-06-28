@@ -39,7 +39,7 @@
                 android:text="Location"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
 
@@ -65,7 +65,7 @@
                 android:text="Pay type salary"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
             <RelativeLayout
@@ -110,7 +110,7 @@
                 android:text="Industry"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
             <Spinner
@@ -130,7 +130,7 @@
                 android:text="Job Type"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
             <RadioGroup
@@ -148,7 +148,7 @@
                     android:text="Full-time"
                     android:paddingLeft="13dp"
                     android:paddingRight="31dp"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:buttonTint="#3CA6DA"/>
@@ -160,7 +160,7 @@
                     android:text="Part-time"
                     android:paddingLeft="13dp"
                     android:paddingRight="31dp"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito_semibold"
                     android:buttonTint="#3CA6DA"/>
@@ -176,7 +176,7 @@
                 android:paddingLeft="13dp"
                 android:paddingRight="5dp"
                 android:layout_marginLeft="27dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"
                 android:buttonTint="#3CA6DA"/>
@@ -187,7 +187,7 @@
                 android:text="Add Skills"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="26dp"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:textColor="@color/black"
                 android:fontFamily="@font/nunito_semibold"/>
             <androidx.appcompat.widget.AppCompatButton
@@ -199,7 +199,7 @@
                 android:layout_marginEnd="24dp"
                 android:layout_marginBottom="123dp"
                 android:text="Apply"
-                android:textSize="18dp"
+                android:textSize="18sp"
                 android:fontFamily="@font/nunito_semibold"
                 android:textColor="@color/white"
                 android:background="@drawable/background_solid"

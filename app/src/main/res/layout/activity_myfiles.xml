@@ -45,7 +45,7 @@
                 android:fontFamily="@font/nunito"
                 android:text="MyFiles"
                 android:textColor="@color/black"
-                android:textSize="30dp" />
+                android:textSize="30sp" />
 
             <TextView
                 android:id="@+id/textView18"
@@ -154,7 +154,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Storage"
-                        android:textSize="18dp"
+                        android:textSize="18sp"
                         android:layout_marginTop="16dp"
                         android:layout_marginLeft="23dp"
                         android:textColor="@color/black"
@@ -165,7 +165,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="30MB/10GB"
-                        android:textSize="10dp"
+                        android:textSize="10sp"
                         android:textColor="@color/grey"
                         android:fontFamily="@font/nunito"
                         android:gravity="right"
@@ -196,7 +196,7 @@
                     android:layout_below="@+id/textView251"
                     android:layout_marginLeft="25dp"
                     android:layout_toRightOf="@+id/spinner55"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:textColor="@color/black"
                     android:fontFamily="@font/nunito"
                     android:foreground="@drawable/background_black"
@@ -213,7 +213,7 @@
                     android:text="Add File"
                     android:textAllCaps="false"
                     android:textColor="@color/white"
-                    android:textSize="18dp"
+                    android:textSize="18sp"
                     android:layout_marginLeft="20dp" />
             </LinearLayout>
 
@@ -240,7 +240,7 @@
                     android:fontFamily="@font/nunito_semibold"
                     android:text="Name"
                     android:textColor="@color/text_blue"
-                    android:textSize="16dp"
+                    android:textSize="16sp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
